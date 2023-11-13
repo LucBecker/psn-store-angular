@@ -39,4 +39,16 @@ export const db = [
     type: 'DISC PS4, PS5',
     price: '219,99',
   },
+  {
+    img: 'assets/bt-6.jpg',
+    label: 'SUCCESS ',
+    type: 'DISC PS4, PS5',
+    price: '219,99',
+  },
+  {
+    img: 'assets/bt-7.jpg',
+    label: 'SUCCESS ',
+    type: 'DISC PS4, PS5',
+    price: '219,99',
+  }
 ];
